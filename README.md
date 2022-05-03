@@ -1,7 +1,7 @@
 >## Sungmin Choi_(smaivnn)
 ### Career
 - Kangwon National Univ
-### internship
+### Internship
 - 넥스트에이비
 
 </br>
