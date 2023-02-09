@@ -1,8 +1,9 @@
 >## Sungmin Choi_(smaivnn)
 ### Career
 - Kangwon National Univ
-### Internship
+### Qualification
 - 넥스트에이비
+- smilegate dev camp (서버 / node.js, mongoDB)
 
 </br>
 
@@ -16,7 +17,7 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 
 ### Algorithm
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Phyton-306998?style=flat-square&logo=Python&logoColor=white"/></a>
 
 <!---
 smaivnn/smaivnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
