@@ -12,7 +12,7 @@
 
 ## 🪪 Qualification
 - NextAB (short-term intern)
-- smilegate dev camp
+- smilegate winter dev camp
 
 ## 💻 Tech Stack
 ### WEB
