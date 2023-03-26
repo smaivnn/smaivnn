@@ -1,13 +1,20 @@
->## Sungmin Choi_(smaivnn)
-### Career
+># Sungmin Choi_(smaivnn)
+>### Hello world and visitors👋, I am a server/backend developer who likes to plan new things.
+
+- ✍🏻 This is my  [Blog](https://smaivnn.tistory.com). interested, take a look
+- 📚 I'm constantly learning new skills and striving for progress
+- 🖥️ Interested in developing servers in the web and games
+- 🏆 Goal: Become a developer who catches up with change
+- ⚡ Mott: ive today, prepare tomorrow.
+
+## 💼 Career
 - Kangwon National Univ
-### Qualification
-- 넥스트에이비
-- smilegate dev camp (서버 / node.js, mongoDB)
+- 
+## 🪪 Qualification
+- NextAB (short-term intern)
+- smilegate dev camp
 
-</br>
-
->## Tech Stack
+## 💻 Tech Stack
 ### WEB
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
