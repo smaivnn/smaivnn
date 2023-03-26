@@ -1,6 +1,6 @@
 ># Sungmin Choi_(smaivnn)
->### Hello world and visitors👋, I'm Sungmin Choi_(smaivnn)
->### I'm a server/backend developer who likes to plan new things
+### Hello world and visitors👋, I'm Sungmin Choi_(smaivnn)
+### I'm a server/backend developer who likes to plan new things
 <br>
 
 - ✍🏻 This is my  [Blog](https://smaivnn.tistory.com). interested, take a look
