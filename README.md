@@ -9,7 +9,7 @@
 
 ## 💼 Career
 - Kangwon National Univ
-- 
+
 ## 🪪 Qualification
 - NextAB (short-term intern)
 - smilegate dev camp
