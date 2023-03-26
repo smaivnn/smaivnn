@@ -6,7 +6,7 @@
 - 📚 I'm constantly learning new skills and striving for progress
 - 🖥️ Interested in developing servers in the web and games
 - 🏆 Goal: Become a developer who catches up with change
-- ⚡ Mott: Live today, prepare tomorrow.
+- ⚡ Motto: Live today, prepare tomorrow.
 
 ## 💼 Career
 - Kangwon National Univ
