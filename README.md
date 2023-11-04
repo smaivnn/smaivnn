@@ -11,9 +11,9 @@
 ## 💼 Career
 - Kangwon National Univ
 
-## 🪪 Qualification
-- NextAB (short-term intern)
-- smilegate winter dev camp
+## 📌 Pin Repository
+- [Unknown-epic](https://github.com/smaivnn/epic_unknown).
+- [smilegate-toPangyo](https://github.com/sgdevcamp2022/topangyo).
 
 ## 💻 Tech Stack
 ### WEB
