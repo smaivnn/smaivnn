@@ -12,7 +12,7 @@
 - Kangwon National Univ
 
 ## 📌 Ongoing project
-- [Unknown-epic](https://github.com/smaivnn/epic_unknown).
+- [Unknown-epic](https://github.com/smaivnn/epic_unknown)
 
 ## 💻 Tech Stack
 ### WEB
