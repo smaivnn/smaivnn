@@ -11,9 +11,8 @@
 ## 💼 Career
 - Kangwon National Univ
 
-## 📌 Pin Repository
+## 📌 Ongoing project
 - [Unknown-epic](https://github.com/smaivnn/epic_unknown).
-- [smilegate-toPangyo](https://github.com/sgdevcamp2022/topangyo).
 
 ## 💻 Tech Stack
 ### WEB
