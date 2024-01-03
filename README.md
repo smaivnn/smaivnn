@@ -12,6 +12,7 @@
 - Kangwon National Univ
 
 ## 📌 Ongoing project
+- [Smilegate 2023 dev camp](https://github.com/sgdevcamp2023/remember)
 - [Unknown-epic](https://github.com/smaivnn/epic_unknown)
 
 ## 💻 Tech Stack
