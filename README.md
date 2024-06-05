@@ -5,7 +5,6 @@
 - ✍🏻 This is my  [Blog](https://smaivnn.tistory.com). interested, take a look
 - 📚 I'm constantly learning new skills and striving for progress
 - 🖥️ Interested in developing servers in the web and games
-- 🏆 Goal: Become a developer who catches up with change
 - ⚡ Motto: Live today, prepare tomorrow.
 
 ## 💼 Career
