@@ -8,14 +8,13 @@
 - ⚡ Motto: Live today, prepare tomorrow.
 
 ## 💼 Continuing Education
-- smilegete dev camp (2023.12 - 2024.02)
-- smilegete dev camp (2022.12 - 2023.02)
+- Smilegete dev camp (2023.12 - 2024.02)
+- Smilegete dev camp (2022.12 - 2023.02)
 - ktcs 인공지능 학습용 라벨링 교육 (2021.10 - 2021.10)
 - codeit 대학생 코딩 캠프 7기 (2021.06 - 2021.07)
 
 ## 📌 Ongoing project
-- [Smilegate 2023 dev camp](https://github.com/sgdevcamp2023/remember)
-- [Unknown-epic](https://github.com/smaivnn/epic_unknown)
+
 
 ## 💻 Tech Stack
 ### WEB
