@@ -14,7 +14,7 @@
 - codeit 대학생 코딩 캠프 7기 (2021.06 - 2021.07)
 
 ## 📌 Ongoing project
-
+https://www.unnone.com
 
 ## 💻 Tech Stack
 ### WEB
