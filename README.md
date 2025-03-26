@@ -6,7 +6,7 @@
 - ⚡ Motto: Live today, prepare tomorrow.
 
 ## 💼 Career
-- Neople (2024.12 - )
+- Nexon NEOPLE (2024.12 - )
   
 ## 🔎 Activity
 - Smilegete dev camp (2023.12 - 2024.02)
